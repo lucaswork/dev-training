@@ -70,13 +70,19 @@
 [Mini curso Rspec](https://www.youtube.com/watch?v=eb2VaG9bfSE&list=PLdDT8if5attGc3fgFsFe5cvV9MwlVFNLW)
 
 ## ReactJS 
+[Facebook Doc](https://pt-br.legacy.reactjs.org/docs/getting-started.html#learn-react)<br />
 [Básico](https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p)<br/>
+[Performance](https://www.youtube.com/watch?v=NmU2nNehNNY)<br/>
 [ReactJS+TypeScript+Hooks](https://www.youtube.com/watch?v=00AkMN9IAAY&list=PLYSZyzpwBEWSe71-aLlq71B2LPZzTNO8a)
 
+
 ## Atividades
+[WhiteBoard](https://www.youtube.com/watch?v=J3vbTM21uDs)<br />
+[Recriando Interface Github](https://www.youtube.com/watch?v=iLEbGQXsg3k)<br />
 [Clone Pipefy](https://www.youtube.com/watch?v=awRtgpRsdTQ)<br/>
 [Clone Tesla](https://www.youtube.com/watch?v=Mf4Se4ZGcG8)<br/>
 [Clone ML](https://www.youtube.com/watch?v=APs_xQ2hUOE)<br/>
 [Clone LinkedIn](https://www.youtube.com/watch?v=-ZV-_7vNRGw)<br/>
 [Clone Twitter](https://www.youtube.com/watch?v=K-8z_4xvT3o)<br/>
 [Clone Discord](https://www.youtube.com/watch?v=x4FdZd2-_uU)
+
