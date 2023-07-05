@@ -86,3 +86,10 @@
 [Clone Twitter](https://www.youtube.com/watch?v=K-8z_4xvT3o)<br/>
 [Clone Discord](https://www.youtube.com/watch?v=x4FdZd2-_uU)
 
+
+## Links úteis
+[RODMAP DEV](https://roadmap.sh/roadmaps)<br/>
+[W3C](https://www.w3schools.com/sql/](https://www.w3schools.com/))<br/>
+[Datacamp](https://www.datacamp.com/)<br/>
+[CodePen](https://codepen.io/)<br/>
+[DevTo](https://dev.to/)
