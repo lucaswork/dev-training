@@ -84,7 +84,8 @@
 [Clone ML](https://www.youtube.com/watch?v=APs_xQ2hUOE)<br/>
 [Clone LinkedIn](https://www.youtube.com/watch?v=-ZV-_7vNRGw)<br/>
 [Clone Twitter](https://www.youtube.com/watch?v=K-8z_4xvT3o)<br/>
-[Clone Discord](https://www.youtube.com/watch?v=x4FdZd2-_uU)
+[Clone Discord](https://www.youtube.com/watch?v=x4FdZd2-_uU)<br/>
+[Blog com Rails](https://www.youtube.com/watch?v=9BsMGqJcFdE)
 
 
 ## Links úteis
