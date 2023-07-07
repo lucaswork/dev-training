@@ -7,18 +7,18 @@
 
 ## HTML
 
-[Guia Rocketseat](https://app.rocketseat.com.br/node/o-guia-estelar-de-html)<br/>
+[Guia Rocketseat](https://app.rocketseat.com.br/) -> Acessar Discover<br/>
 [Guia Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 ## CSS
 
-[Guia Rocketseat](https://app.rocketseat.com.br/node/o-guia-estelar-de-css)<br/>
+[Guia Rocketseat](https://app.rocketseat.com.br/) -> Acessar Discover<br/>
 [Guia Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/CSS)<br/>
 [Guia W3](https://www.w3schools.com/css/)
 
 ## Javascript
 
-[Guia Rocketseat](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script)<br/>
+[Guia Rocketseat](https://app.rocketseat.com.br/) -> Acessar Discover<br/>
 [Guia Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)<br/>
 [Guia W3](https://www.w3schools.com/js/default.asp)
 
