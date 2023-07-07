@@ -30,7 +30,7 @@
 
 ## NodeJS
 
-[Guia Rocketseat](https://app.rocketseat.com.br/node/node-js-o-motor-da-nave)<br/>
+[MasterClass Rocketseat](https://app.rocketseat.com.br/node/node-js-o-motor-da-nave](https://www.youtube.com/watch?v=DiXbJL3iWVs))<br/>
 [Curso completo](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
 
 ## ReactJS
