@@ -66,7 +66,7 @@
 [Curso para iniciantes](https://www.youtube.com/watch?v=lCemyQeSCV8](https://www.youtube.com/watch?v=ppDsxbUNtNQ))
 
 ## ReactJS
-[Básico](https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p)<br/>
+[Curso para iniciantes](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)<br/>
 [Performance](https://www.youtube.com/watch?v=NmU2nNehNNY)<br/>
 [ReactJS+TypeScript+Hooks](https://www.youtube.com/watch?v=00AkMN9IAAY&list=PLYSZyzpwBEWSe71-aLlq71B2LPZzTNO8a)
 
