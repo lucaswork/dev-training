@@ -24,21 +24,19 @@
 
 
 ## TypeScript
-
-[Curso para iniciantes](https://www.youtube.com/watch?v=lCemyQeSCV8](https://www.youtube.com/watch?v=ppDsxbUNtNQ))
+[Documentação](https://www.typescriptlang.org/pt/docs/)
 
 
 ## NodeJS
+[Documentação](https://devdocs.io/node/)
 
-[MasterClass Rocketseat](https://www.youtube.com/watch?v=DiXbJL3iWVs))<br/>
 
 
 ## ReactJS
-[Curso para iniciantes](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
-[ReactJS + TypeScript](https://www.youtube.com/watch?v=00AkMN9IAAY&list=PLYSZyzpwBEWSe71-aLlq71B2LPZzTNO8a)<br/>
-[Guia Rocketseat](https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p)<br/>
-[Guia Oficial](https://pt-br.reactjs.org/tutorial/tutorial.html)<br/>
-[Curso completo](https://www.youtube.com/watch?v=C8M94QLJy0o&list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1)
+[Curso para iniciantes](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)<br/>
+[Documentação Legacy](https://pt-br.legacy.reactjs.org/docs/getting-started.html#learn-react)<br />
+[Documentação Oficial](https://pt-br.reactjs.org/tutorial/tutorial.html)<br/>
+
 
 ## Ruby on Rails
 
@@ -50,6 +48,7 @@
 
 [Tutorial](https://www.postgresqltutorial.com/)
 
+
 # Trilha do dev
 
 ## Git
@@ -57,23 +56,28 @@
 [Guia RocketSeat](https://app.rocketseat.com.br/node/o-guia-estelar-de-git)
 
 ## HTML + CSS + JS
-[Guia RocketSeat HTML](https://app.rocketseat.com.br/node/o-guia-estelar-de-html)<br/>
-[Guia RocketSeat CSS](https://app.rocketseat.com.br/node/o-guia-estelar-de-css)<br/>
-[Guia RocketSeat Javascript](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script)
+[Guia Rocketseat](https://app.rocketseat.com.br/) -> Acessar Discover<br/>
 
-## Consumindo APIs com INSOMNIA
-[Canal RocketSeat](https://www.youtube.com/watch?v=3tB0uDliS6Y)
+## Consumindo APIs com POSTMAN
+[Tutorial Postman API - Como usar o Postman na prática](https://www.youtube.com/watch?v=FItxZDcujnA)
 
-## Criando APIs com Ruby on Rails
-[Resumo](https://www.youtube.com/watch?v=QojnRc7SS9o)<br/>
-[Completo](https://www.youtube.com/watch?v=M9-em3FYMNU&list=PLjQo0sojbbxWXYhditpqZlN4oLJE4hLjP)<br/>
-[Mini curso Rspec](https://www.youtube.com/watch?v=eb2VaG9bfSE&list=PLdDT8if5attGc3fgFsFe5cvV9MwlVFNLW)
 
-## ReactJS 
-[Facebook Doc](https://pt-br.legacy.reactjs.org/docs/getting-started.html#learn-react)<br />
+## TypeScript
+[Curso para iniciantes](https://www.youtube.com/watch?v=lCemyQeSCV8](https://www.youtube.com/watch?v=ppDsxbUNtNQ))
+
+## ReactJS
 [Básico](https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p)<br/>
 [Performance](https://www.youtube.com/watch?v=NmU2nNehNNY)<br/>
 [ReactJS+TypeScript+Hooks](https://www.youtube.com/watch?v=00AkMN9IAAY&list=PLYSZyzpwBEWSe71-aLlq71B2LPZzTNO8a)
+
+
+## Criando APIs com Ruby on Rails
+<!-- [Rails 6](https://www.youtube.com/watch?v=gTR6lx00Nac&list=PLqsayW8DhUmuvgOX08aXYk6Y-HGrdYg20)<br/> -->
+[Resumo](https://www.youtube.com/watch?v=QojnRc7SS9o)<br/>
+[Mini curso Rspec](https://www.youtube.com/watch?v=eb2VaG9bfSE&list=PLdDT8if5attGc3fgFsFe5cvV9MwlVFNLW)
+<!--- [Completo](https://www.youtube.com/watch?v=M9-em3FYMNU&list=PLjQo0sojbbxWXYhditpqZlN4oLJE4hLjP)<br/> -->
+
+
 
 
 ## Atividades
