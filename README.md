@@ -34,7 +34,7 @@
 
 
 ## ReactJS
-
+[Curso para iniciantes](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
 [ReactJS + TypeScript](https://www.youtube.com/watch?v=00AkMN9IAAY&list=PLYSZyzpwBEWSe71-aLlq71B2LPZzTNO8a)<br/>
 [Guia Rocketseat](https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p)<br/>
 [Guia Oficial](https://pt-br.reactjs.org/tutorial/tutorial.html)<br/>
