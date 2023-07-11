@@ -25,7 +25,6 @@
 
 ## TypeScript
 
-[Tutorial](https://www.typescripttutorial.net/](https://dev.to/juanbelieni/typescript-para-iniciantes-como-criar-seu-primeiro-projeto-408f))<br/>
 [Curso para iniciantes](https://www.youtube.com/watch?v=lCemyQeSCV8](https://www.youtube.com/watch?v=ppDsxbUNtNQ))
 
 
