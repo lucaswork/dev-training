@@ -22,16 +22,17 @@
 [Guia Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)<br/>
 [Guia W3](https://www.w3schools.com/js/default.asp)
 
+
 ## TypeScript
 
-[Tutorial](https://www.typescripttutorial.net/)<br/>
-[Typescript - 5 minutos](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)<br/>
-[Curso para iniciantes](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+[Tutorial](https://www.typescripttutorial.net/](https://dev.to/juanbelieni/typescript-para-iniciantes-como-criar-seu-primeiro-projeto-408f))<br/>
+[Curso para iniciantes](https://www.youtube.com/watch?v=lCemyQeSCV8](https://www.youtube.com/watch?v=ppDsxbUNtNQ))
+
 
 ## NodeJS
 
-[MasterClass Rocketseat](https://app.rocketseat.com.br/node/node-js-o-motor-da-nave](https://www.youtube.com/watch?v=DiXbJL3iWVs))<br/>
-[Curso completo](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
+[MasterClass Rocketseat](https://www.youtube.com/watch?v=DiXbJL3iWVs))<br/>
+
 
 ## ReactJS
 
