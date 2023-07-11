@@ -68,7 +68,10 @@
 ## ReactJS
 [Curso para iniciantes](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)<br/>
 [Performance](https://www.youtube.com/watch?v=NmU2nNehNNY)<br/>
-[ReactJS+TypeScript+Hooks](https://www.youtube.com/watch?v=00AkMN9IAAY&list=PLYSZyzpwBEWSe71-aLlq71B2LPZzTNO8a)
+
+
+## ReactJS + TypeScript
+[PROJETO DE REACT COM TYPESCRIPT E API DO GITHUB](https://www.youtube.com/watch?v=3sQITRihW_A)
 
 
 ## Criando APIs com Ruby on Rails
@@ -81,6 +84,7 @@
 
 
 ## Atividades
+[Crie Uma CALCULADORA com HTML, CSS & JavaScript](https://www.youtube.com/watch?v=93wPYo1pjic)<br/>
 [WhiteBoard](https://www.youtube.com/watch?v=J3vbTM21uDs)<br />
 [Recriando Interface Github](https://www.youtube.com/watch?v=iLEbGQXsg3k)<br />
 [Clone Pipefy](https://www.youtube.com/watch?v=awRtgpRsdTQ)<br/>
