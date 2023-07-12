@@ -85,6 +85,7 @@
 
 ## Atividades
 [Crie Uma CALCULADORA com HTML, CSS & JavaScript](https://www.youtube.com/watch?v=93wPYo1pjic)<br/>
+[Recriei a interface do Spotify usando Tailwind](https://www.youtube.com/watch?v=YVI-q3idGiM)<br/>
 [WhiteBoard](https://www.youtube.com/watch?v=J3vbTM21uDs)<br />
 [Recriando Interface Github](https://www.youtube.com/watch?v=iLEbGQXsg3k)<br />
 [Clone Pipefy](https://www.youtube.com/watch?v=awRtgpRsdTQ)<br/>
